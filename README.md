@@ -1,5 +1,5 @@
 # BaseOS
-This is a new base operating system build on top of actual UNIX systems but with a new system structure.
+This is a new base operating system build on top of actual UNIX systems but creating a new system structure.
 
 The objective of this project is to make a new base system taking the best of actual OSes.
 
